@@ -27,11 +27,11 @@ pip install scholarly pandas openpyxl
 ---
 
 ## 📂 File Overview
-Goolge_scholarly_crawler.ipynb: Main Jupyter Notebook containing all functionalities:
+ - Goolge_scholarly_crawler.ipynb: Main Jupyter Notebook containing all functionalities:
 
--Scholar search
--Data parsing
--Data storage in multiple formats
+ - Scholar search
+ --Data parsing
+ --Data storage in multiple formats
 
 ---
 
