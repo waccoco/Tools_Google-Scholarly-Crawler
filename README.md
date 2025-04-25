@@ -23,7 +23,7 @@ This project is a Python-based tool for retrieving academic publication data fro
 
 ```bash
 pip install scholarly pandas openpyxl
-
+```
 ---
 
 ##📂 File Overview
