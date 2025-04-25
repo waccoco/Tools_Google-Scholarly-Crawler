@@ -26,7 +26,7 @@ pip install scholarly pandas openpyxl
 ```
 ---
 
-##📂 File Overview
+## 📂 File Overview
 Goolge_scholarly_crawler.ipynb: Main Jupyter Notebook containing all functionalities:
 
 -Scholar search
@@ -35,7 +35,7 @@ Goolge_scholarly_crawler.ipynb: Main Jupyter Notebook containing all functionali
 
 ---
 
-##📝 How to Use
+## 📝 How to Use
  -  Create a database (optional):
 conn = create_database("scholar_data.db")
 
